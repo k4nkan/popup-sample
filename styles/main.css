@@ -1,0 +1,5 @@
+/* css for the card component */
+@import url(./card.css);
+
+/* css to reset default browser styles */
+@import url(./reset.css);
